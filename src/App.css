@@ -1,0 +1,42 @@
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(27, 145, 27);
+    color: rgb(209, 31, 31);
+    text-align: center;
+    
+
+}
+
+.header {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(63, 4, 36); /* este estilo no se esta aplicanco*/
+    text-align: center;
+    color: rgb(49, 224, 108); /* este estilo no se esta aplicanco*/
+   
+}
+
+  
+  /* Cambiar color de los encabezados de la tabla */
+  .table th {
+    background-color: #012246; 
+    color: #f3f3f3; 
+  }
+  .table td {
+    background-color: #e7dce4; 
+    color: #0c0000; 
+  }
+  .title-background {
+    background-color: #012246;
+    color: white;
+    
+    padding: 10px; /* Añadir algo de padding para mejorar la apariencia */
+    text-align: center;
+     border-radius: 10px;
+  }
